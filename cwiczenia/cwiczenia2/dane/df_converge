@@ -1,1 +1,24 @@
+diabetes:
+0 - non-diabetic
+1 - pre-diabetic
+2 - dibetic
 
+HighChol - estimated cholesterol
+0 - no
+1 - yes
+
+Smoker
+0 - no
+1 - yes
+
+Sex
+0 -female
+1 - male
+
+Education
+1 - primary
+2 - high school
+3 - university experience
+4 - bachelor
+5 - masters
+6 - phd
